@@ -12,4 +12,4 @@ I'm Cristina. I am a chemistry graduate and I am studying a Master's degree in B
 
 
 #### Some stats
-![crisouteda's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisouteda&count_private=true&show_icons=true&hide=stars,issues&show_icons=true&theme=highcontrast)
+![crisouteda's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisouteda&count_private=true&show_icons=true&hide=stars,issues&show_icons=true&theme=radical)
